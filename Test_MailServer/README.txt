@@ -1,0 +1,1 @@
+Docker Image: https://hub.docker.com/r/marcopas/docker-mailslurper
